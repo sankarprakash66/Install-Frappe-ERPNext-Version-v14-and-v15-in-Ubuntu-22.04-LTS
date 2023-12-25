@@ -58,13 +58,14 @@ Complete Guide to Install Frappe/ERPNext version 14 and 15 in Ubuntu 22.04 LTS
 
 ### STEP 4 Install virtualenv
 
+## Also you con install both 
 ## if you can install 15 use this    
     sudo apt install python3.11-venv
     
 ## if you can install 14 use this
     sudo apt-get install virtualenv
     sudo apt install python3.10-venv
-## Also you con install both 
+
 
 ### STEP 5 Install MariaDB
 
