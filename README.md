@@ -39,8 +39,8 @@ Complete Guide to Install Frappe/ERPNext version 14 and 15 in Ubuntu 22.04 LTS
 
 #### Refer this for default python 3.11 setup
 
-- [www.linuxcapable.com](https://www.linuxcapable.com/how-to-install-python-3-11-on-ubuntu-linux/#google_vignette)
-- [ubuntuhandbook.org](https://ubuntuhandbook.org/index.php/2022/10/python-3-11-released-how-install-ubuntu)
+- [www.linuxcapable.com](https://www.linuxcapable.com/how-to-install-python-3-11-on-ubuntu-linux/#google_vignette)  - [ubuntuhandbook.org](https://ubuntuhandbook.org/index.php/2022/10/python-3-11-released-how-install-ubuntu)
+
 
 -----
 
